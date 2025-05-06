@@ -1,0 +1,12 @@
+# Ignore executables
+*.exe
+
+# Ignore VSCode settings folder
+.vscode/
+
+# (Optional) Ignore compiled object files
+*.o
+
+# (Optional) Ignore logs and temp files
+*.log
+*.tmp
